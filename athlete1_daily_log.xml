@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HealthData athlete="Athlete 1" exportDate="2026-09-06">
+  <DailyRecord date="2026-06-07">
+    <HeartRate restingBPM="67" avgBPM="109" minBPM="80" maxBPM="197" hrvMS="45"/>
+    <Sleep totalHrs="7.3" deepHrs="0.81" remHrs="2.37" coreHrs="3.71" awakeHrs="0.38"/>
+    <Fitness steps="10244" vo2max="27.7" activeCalories="516"/>
+    <Workout activity="Cycling" durationMin="37" avgHRBPM="146" peakHRBPM="166" minHRBPM="130"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-08">
+    <HeartRate restingBPM="66" avgBPM="118" minBPM="91" maxBPM="154" hrvMS="54"/>
+    <Sleep totalHrs="6.6" deepHrs="0.67" remHrs="2.09" coreHrs="3.69" awakeHrs="0.14"/>
+    <Fitness steps="9633" vo2max="28.0" activeCalories="802"/>
+    <Workout activity="Yoga" durationMin="15" avgHRBPM="116" peakHRBPM="148" minHRBPM="103"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-09">
+    <HeartRate restingBPM="63" avgBPM="113" minBPM="83" maxBPM="151" hrvMS="46"/>
+    <Sleep totalHrs="7.5" deepHrs="0.7" remHrs="1.78" coreHrs="4.79" awakeHrs="0.25"/>
+    <Fitness steps="2000" vo2max="28.1" activeCalories="723"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-10">
+    <HeartRate restingBPM="68" avgBPM="106" minBPM="86" maxBPM="177" hrvMS="49"/>
+    <Sleep totalHrs="8.1" deepHrs="1.42" remHrs="1.84" coreHrs="4.46" awakeHrs="0.35"/>
+    <Fitness steps="9886" vo2max="28.0" activeCalories="469"/>
+    <Workout activity="StairClimbing" durationMin="38" avgHRBPM="159" peakHRBPM="197" minHRBPM="145"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-11">
+    <HeartRate restingBPM="65" avgBPM="110" minBPM="89" maxBPM="158" hrvMS="50"/>
+    <Sleep totalHrs="6.6" deepHrs="0.88" remHrs="1.33" coreHrs="4.37" awakeHrs="0.06"/>
+    <Fitness steps="5221" vo2max="28.0" activeCalories="681"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-12">
+    <HeartRate restingBPM="65" avgBPM="108" minBPM="83" maxBPM="131" hrvMS="55"/>
+    <Sleep totalHrs="6.0" deepHrs="0.86" remHrs="1.45" coreHrs="3.5" awakeHrs="0.17"/>
+    <Fitness steps="6469" vo2max="28.0" activeCalories="597"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-13">
+    <HeartRate restingBPM="66" avgBPM="105" minBPM="71" maxBPM="162" hrvMS="59"/>
+    <Sleep totalHrs="8.4" deepHrs="1.4" remHrs="1.8" coreHrs="5.14" awakeHrs="0.11"/>
+    <Fitness steps="9535" vo2max="28.2" activeCalories="365"/>
+    <Workout activity="Hiking" durationMin="34" avgHRBPM="164" peakHRBPM="201" minHRBPM="152"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-14">
+    <HeartRate restingBPM="64" avgBPM="114" minBPM="88" maxBPM="175" hrvMS="59"/>
+    <Sleep totalHrs="8.0" deepHrs="1.58" remHrs="1.89" coreHrs="4.2" awakeHrs="0.32"/>
+    <Fitness steps="11244" vo2max="28.0" activeCalories="559"/>
+    <Workout activity="Walking" durationMin="84" avgHRBPM="140" peakHRBPM="162" minHRBPM="126"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-15">
+    <HeartRate restingBPM="63" avgBPM="112" minBPM="82" maxBPM="161" hrvMS="45"/>
+    <Sleep totalHrs="7.7" deepHrs="0.57" remHrs="2.21" coreHrs="4.89" awakeHrs="0.06"/>
+    <Fitness steps="12179" vo2max="27.9" activeCalories="297"/>
+    <Workout activity="Hiking" durationMin="51" avgHRBPM="162" peakHRBPM="177" minHRBPM="139"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-16">
+    <HeartRate restingBPM="59" avgBPM="114" minBPM="83" maxBPM="159" hrvMS="53"/>
+    <Sleep totalHrs="6.9" deepHrs="0.63" remHrs="1.43" coreHrs="4.48" awakeHrs="0.39"/>
+    <Fitness steps="5567" vo2max="27.8" activeCalories="493"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-17">
+    <HeartRate restingBPM="59" avgBPM="104" minBPM="88" maxBPM="136" hrvMS="51"/>
+    <Sleep totalHrs="6.3" deepHrs="0.66" remHrs="1.34" coreHrs="4.27" awakeHrs="0.08"/>
+    <Fitness steps="10568" vo2max="28.0" activeCalories="214"/>
+    <Workout activity="Walking" durationMin="16" avgHRBPM="141" peakHRBPM="184" minHRBPM="127"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-18">
+    <HeartRate restingBPM="61" avgBPM="110" minBPM="78" maxBPM="181" hrvMS="50"/>
+    <Sleep totalHrs="7.4" deepHrs="0.56" remHrs="1.94" coreHrs="4.72" awakeHrs="0.19"/>
+    <Fitness steps="12482" vo2max="27.9" activeCalories="211"/>
+    <Workout activity="Walking" durationMin="72" avgHRBPM="141" peakHRBPM="179" minHRBPM="117"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-19">
+    <HeartRate restingBPM="58" avgBPM="111" minBPM="92" maxBPM="200" hrvMS="52"/>
+    <Sleep totalHrs="8.3" deepHrs="1.34" remHrs="2.32" coreHrs="4.51" awakeHrs="0.13"/>
+    <Fitness steps="7983" vo2max="28.0" activeCalories="417"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-20">
+    <HeartRate restingBPM="61" avgBPM="105" minBPM="85" maxBPM="128" hrvMS="54"/>
+    <Sleep totalHrs="9.1" deepHrs="1.31" remHrs="2.25" coreHrs="5.18" awakeHrs="0.37"/>
+    <Fitness steps="15218" vo2max="28.3" activeCalories="109"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-21">
+    <HeartRate restingBPM="62" avgBPM="114" minBPM="97" maxBPM="169" hrvMS="53"/>
+    <Sleep totalHrs="6.9" deepHrs="0.63" remHrs="1.58" coreHrs="4.35" awakeHrs="0.36"/>
+    <Fitness steps="10234" vo2max="27.9" activeCalories="186"/>
+    <Workout activity="HighIntensityIntervalTraining" durationMin="76" avgHRBPM="142" peakHRBPM="162" minHRBPM="123"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-22">
+    <HeartRate restingBPM="62" avgBPM="107" minBPM="77" maxBPM="169" hrvMS="65"/>
+    <Sleep totalHrs="6.8" deepHrs="0.92" remHrs="1.62" coreHrs="4.19" awakeHrs="0.06"/>
+    <Fitness steps="13931" vo2max="28.5" activeCalories="209"/>
+    <Workout activity="Walking" durationMin="58" avgHRBPM="127" peakHRBPM="170" minHRBPM="101"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-23">
+    <HeartRate restingBPM="58" avgBPM="111" minBPM="96" maxBPM="160" hrvMS="58"/>
+    <Sleep totalHrs="7.2" deepHrs="1.11" remHrs="1.37" coreHrs="4.39" awakeHrs="0.36"/>
+    <Fitness steps="13154" vo2max="27.9" activeCalories="376"/>
+    <Workout activity="Hiking" durationMin="98" avgHRBPM="152" peakHRBPM="188" minHRBPM="138"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-24">
+    <HeartRate restingBPM="58" avgBPM="105" minBPM="82" maxBPM="163" hrvMS="65"/>
+    <Sleep totalHrs="8.7" deepHrs="1.3" remHrs="1.97" coreHrs="5.1" awakeHrs="0.37"/>
+    <Fitness steps="12256" vo2max="28.1" activeCalories="319"/>
+    <Workout activity="Walking" durationMin="20" avgHRBPM="139" peakHRBPM="165" minHRBPM="125"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-25">
+    <HeartRate restingBPM="58" avgBPM="112" minBPM="86" maxBPM="187" hrvMS="66"/>
+    <Sleep totalHrs="6.9" deepHrs="0.67" remHrs="2.02" coreHrs="3.85" awakeHrs="0.34"/>
+    <Fitness steps="12486" vo2max="28.0" activeCalories="127"/>
+    <Workout activity="FunctionalStrengthTraining" durationMin="92" avgHRBPM="142" peakHRBPM="174" minHRBPM="131"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-26">
+    <HeartRate restingBPM="59" avgBPM="112" minBPM="86" maxBPM="163" hrvMS="55"/>
+    <Sleep totalHrs="8.1" deepHrs="0.92" remHrs="2.39" coreHrs="4.57" awakeHrs="0.17"/>
+    <Fitness steps="11689" vo2max="28.0" activeCalories="172"/>
+    <Workout activity="FunctionalStrengthTraining" durationMin="31" avgHRBPM="154" peakHRBPM="171" minHRBPM="128"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-27">
+    <HeartRate restingBPM="61" avgBPM="111" minBPM="95" maxBPM="144" hrvMS="68"/>
+    <Sleep totalHrs="8.0" deepHrs="1.48" remHrs="1.44" coreHrs="4.76" awakeHrs="0.3"/>
+    <Fitness steps="17079" vo2max="28.2" activeCalories="368"/>
+    <Workout activity="Walking" durationMin="38" avgHRBPM="134" peakHRBPM="171" minHRBPM="122"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-28">
+    <HeartRate restingBPM="58" avgBPM="113" minBPM="81" maxBPM="155" hrvMS="66"/>
+    <Sleep totalHrs="6.9" deepHrs="0.71" remHrs="2.16" coreHrs="3.96" awakeHrs="0.1"/>
+    <Fitness steps="16454" vo2max="28.0" activeCalories="403"/>
+    <Workout activity="Walking" durationMin="74" avgHRBPM="137" peakHRBPM="164" minHRBPM="120"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-29">
+    <HeartRate restingBPM="60" avgBPM="102" minBPM="68" maxBPM="168" hrvMS="55"/>
+    <Sleep totalHrs="8.2" deepHrs="1.03" remHrs="2.15" coreHrs="4.82" awakeHrs="0.19"/>
+    <Fitness steps="16814" vo2max="28.3" activeCalories="355"/>
+  </DailyRecord>
+  <DailyRecord date="2026-06-30">
+    <HeartRate restingBPM="58" avgBPM="102" minBPM="80" maxBPM="188" hrvMS="55"/>
+    <Sleep totalHrs="6.8" deepHrs="1.35" remHrs="1.53" coreHrs="3.65" awakeHrs="0.24"/>
+    <Fitness steps="12087" vo2max="28.1" activeCalories="407"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-01">
+    <HeartRate restingBPM="58" avgBPM="105" minBPM="82" maxBPM="183" hrvMS="58"/>
+    <Sleep totalHrs="7.2" deepHrs="1.54" remHrs="1.6" coreHrs="3.77" awakeHrs="0.33"/>
+    <Fitness steps="12473" vo2max="28.6" activeCalories="424"/>
+    <Workout activity="FunctionalStrengthTraining" durationMin="56" avgHRBPM="137" peakHRBPM="157" minHRBPM="118"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-02">
+    <HeartRate restingBPM="58" avgBPM="105" minBPM="70" maxBPM="149" hrvMS="66"/>
+    <Sleep totalHrs="7.0" deepHrs="1.4" remHrs="1.81" coreHrs="3.57" awakeHrs="0.26"/>
+    <Fitness steps="17581" vo2max="28.1" activeCalories="575"/>
+    <Workout activity="Cycling" durationMin="91" avgHRBPM="140" peakHRBPM="168" minHRBPM="114"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-03">
+    <HeartRate restingBPM="58" avgBPM="102" minBPM="68" maxBPM="129" hrvMS="57"/>
+    <Sleep totalHrs="7.4" deepHrs="1.24" remHrs="1.51" coreHrs="4.53" awakeHrs="0.12"/>
+    <Fitness steps="15168" vo2max="28.3" activeCalories="429"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-04">
+    <HeartRate restingBPM="59" avgBPM="109" minBPM="87" maxBPM="142" hrvMS="58"/>
+    <Sleep totalHrs="7.7" deepHrs="0.98" remHrs="1.61" coreHrs="4.78" awakeHrs="0.37"/>
+    <Fitness steps="15450" vo2max="28.6" activeCalories="697"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-05">
+    <HeartRate restingBPM="60" avgBPM="112" minBPM="95" maxBPM="197" hrvMS="60"/>
+    <Sleep totalHrs="7.7" deepHrs="1.24" remHrs="1.91" coreHrs="4.32" awakeHrs="0.27"/>
+    <Fitness steps="11902" vo2max="28.4" activeCalories="439"/>
+    <Workout activity="Walking" durationMin="40" avgHRBPM="126" peakHRBPM="164" minHRBPM="105"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-06">
+    <HeartRate restingBPM="58" avgBPM="102" minBPM="75" maxBPM="135" hrvMS="59"/>
+    <Sleep totalHrs="6.3" deepHrs="0.81" remHrs="1.6" coreHrs="3.57" awakeHrs="0.29"/>
+    <Fitness steps="6647" vo2max="28.5" activeCalories="756"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-07">
+    <HeartRate restingBPM="58" avgBPM="110" minBPM="77" maxBPM="165" hrvMS="66"/>
+    <Sleep totalHrs="6.5" deepHrs="0.75" remHrs="1.69" coreHrs="3.93" awakeHrs="0.18"/>
+    <Fitness steps="12682" vo2max="28.3" activeCalories="687"/>
+    <Workout activity="Walking" durationMin="16" avgHRBPM="127" peakHRBPM="151" minHRBPM="107"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-08">
+    <HeartRate restingBPM="58" avgBPM="102" minBPM="73" maxBPM="127" hrvMS="65"/>
+    <Sleep totalHrs="8.4" deepHrs="0.93" remHrs="2.31" coreHrs="4.98" awakeHrs="0.22"/>
+    <Fitness steps="7205" vo2max="28.3" activeCalories="749"/>
+    <Workout activity="Walking" durationMin="79" avgHRBPM="131" peakHRBPM="151" minHRBPM="103"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-09">
+    <HeartRate restingBPM="61" avgBPM="102" minBPM="68" maxBPM="188" hrvMS="59"/>
+    <Sleep totalHrs="7.7" deepHrs="0.8" remHrs="1.89" coreHrs="4.79" awakeHrs="0.23"/>
+    <Fitness steps="4496" vo2max="28.5" activeCalories="739"/>
+    <Workout activity="Hiking" durationMin="70" avgHRBPM="148" peakHRBPM="181" minHRBPM="128"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-10">
+    <HeartRate restingBPM="58" avgBPM="106" minBPM="75" maxBPM="155" hrvMS="65"/>
+    <Sleep totalHrs="8.1" deepHrs="0.86" remHrs="2.12" coreHrs="4.85" awakeHrs="0.22"/>
+    <Fitness steps="11450" vo2max="28.7" activeCalories="591"/>
+    <Workout activity="Walking" durationMin="57" avgHRBPM="128" peakHRBPM="152" minHRBPM="101"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-11">
+    <HeartRate restingBPM="61" avgBPM="113" minBPM="87" maxBPM="181" hrvMS="55"/>
+    <Sleep totalHrs="7.0" deepHrs="1.37" remHrs="1.44" coreHrs="3.97" awakeHrs="0.21"/>
+    <Fitness steps="5838" vo2max="28.7" activeCalories="524"/>
+    <Workout activity="Hiking" durationMin="65" avgHRBPM="159" peakHRBPM="192" minHRBPM="144"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-12">
+    <HeartRate restingBPM="62" avgBPM="106" minBPM="74" maxBPM="152" hrvMS="55"/>
+    <Sleep totalHrs="7.2" deepHrs="0.96" remHrs="2.21" coreHrs="3.73" awakeHrs="0.31"/>
+    <Fitness steps="11031" vo2max="28.4" activeCalories="463"/>
+    <Workout activity="Hiking" durationMin="25" avgHRBPM="158" peakHRBPM="196" minHRBPM="144"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-13">
+    <HeartRate restingBPM="58" avgBPM="105" minBPM="79" maxBPM="151" hrvMS="64"/>
+    <Sleep totalHrs="7.7" deepHrs="1.29" remHrs="2.34" coreHrs="3.89" awakeHrs="0.18"/>
+    <Fitness steps="6387" vo2max="28.6" activeCalories="450"/>
+    <Workout activity="Cycling" durationMin="69" avgHRBPM="140" peakHRBPM="177" minHRBPM="118"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-14">
+    <HeartRate restingBPM="63" avgBPM="112" minBPM="79" maxBPM="178" hrvMS="54"/>
+    <Sleep totalHrs="8.4" deepHrs="1.46" remHrs="1.93" coreHrs="4.81" awakeHrs="0.18"/>
+    <Fitness steps="2955" vo2max="28.8" activeCalories="491"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-15">
+    <HeartRate restingBPM="64" avgBPM="106" minBPM="78" maxBPM="156" hrvMS="60"/>
+    <Sleep totalHrs="7.5" deepHrs="1.58" remHrs="1.46" coreHrs="4.11" awakeHrs="0.37"/>
+    <Fitness steps="6726" vo2max="28.7" activeCalories="584"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-16">
+    <HeartRate restingBPM="60" avgBPM="113" minBPM="95" maxBPM="198" hrvMS="49"/>
+    <Sleep totalHrs="8.1" deepHrs="1.05" remHrs="2.1" coreHrs="4.55" awakeHrs="0.35"/>
+    <Fitness steps="2143" vo2max="28.4" activeCalories="530"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-17">
+    <HeartRate restingBPM="60" avgBPM="110" minBPM="82" maxBPM="173" hrvMS="49"/>
+    <Sleep totalHrs="7.9" deepHrs="1.45" remHrs="2.14" coreHrs="4.23" awakeHrs="0.06"/>
+    <Fitness steps="6790" vo2max="28.7" activeCalories="253"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-18">
+    <HeartRate restingBPM="59" avgBPM="115" minBPM="99" maxBPM="158" hrvMS="62"/>
+    <Sleep totalHrs="7.8" deepHrs="0.71" remHrs="2.01" coreHrs="4.76" awakeHrs="0.32"/>
+    <Fitness steps="8153" vo2max="28.5" activeCalories="401"/>
+    <Workout activity="Cycling" durationMin="46" avgHRBPM="152" peakHRBPM="172" minHRBPM="127"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-19">
+    <HeartRate restingBPM="66" avgBPM="110" minBPM="93" maxBPM="145" hrvMS="53"/>
+    <Sleep totalHrs="8.4" deepHrs="1.57" remHrs="1.66" coreHrs="5.02" awakeHrs="0.12"/>
+    <Fitness steps="6640" vo2max="28.5" activeCalories="431"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-20">
+    <HeartRate restingBPM="60" avgBPM="113" minBPM="79" maxBPM="138" hrvMS="52"/>
+    <Sleep totalHrs="7.9" deepHrs="1.2" remHrs="2.03" coreHrs="4.26" awakeHrs="0.38"/>
+    <Fitness steps="11398" vo2max="28.7" activeCalories="444"/>
+    <Workout activity="Walking" durationMin="62" avgHRBPM="123" peakHRBPM="145" minHRBPM="101"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-21">
+    <HeartRate restingBPM="64" avgBPM="112" minBPM="84" maxBPM="183" hrvMS="55"/>
+    <Sleep totalHrs="8.0" deepHrs="0.71" remHrs="2.08" coreHrs="4.94" awakeHrs="0.3"/>
+    <Fitness steps="4485" vo2max="29.0" activeCalories="414"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-22">
+    <HeartRate restingBPM="66" avgBPM="115" minBPM="91" maxBPM="138" hrvMS="48"/>
+    <Sleep totalHrs="7.0" deepHrs="1.4" remHrs="1.33" coreHrs="3.99" awakeHrs="0.3"/>
+    <Fitness steps="11819" vo2max="28.7" activeCalories="338"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-23">
+    <HeartRate restingBPM="62" avgBPM="105" minBPM="85" maxBPM="188" hrvMS="43"/>
+    <Sleep totalHrs="7.8" deepHrs="1.46" remHrs="1.99" coreHrs="4.17" awakeHrs="0.17"/>
+    <Fitness steps="5306" vo2max="28.5" activeCalories="184"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-24">
+    <HeartRate restingBPM="65" avgBPM="108" minBPM="92" maxBPM="176" hrvMS="56"/>
+    <Sleep totalHrs="8.3" deepHrs="1.3" remHrs="2.26" coreHrs="4.54" awakeHrs="0.23"/>
+    <Fitness steps="11717" vo2max="28.6" activeCalories="140"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-25">
+    <HeartRate restingBPM="61" avgBPM="112" minBPM="95" maxBPM="173" hrvMS="42"/>
+    <Sleep totalHrs="6.4" deepHrs="1.16" remHrs="1.43" coreHrs="3.55" awakeHrs="0.3"/>
+    <Fitness steps="8418" vo2max="28.8" activeCalories="146"/>
+    <Workout activity="StairClimbing" durationMin="56" avgHRBPM="160" peakHRBPM="191" minHRBPM="132"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-26">
+    <HeartRate restingBPM="68" avgBPM="111" minBPM="82" maxBPM="194" hrvMS="54"/>
+    <Sleep totalHrs="7.9" deepHrs="0.94" remHrs="2.1" coreHrs="4.77" awakeHrs="0.1"/>
+    <Fitness steps="7035" vo2max="28.9" activeCalories="90"/>
+    <Workout activity="Walking" durationMin="33" avgHRBPM="135" peakHRBPM="169" minHRBPM="117"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-27">
+    <HeartRate restingBPM="69" avgBPM="115" minBPM="88" maxBPM="196" hrvMS="43"/>
+    <Sleep totalHrs="6.7" deepHrs="0.77" remHrs="1.33" coreHrs="4.25" awakeHrs="0.31"/>
+    <Fitness steps="16447" vo2max="28.7" activeCalories="385"/>
+    <Workout activity="Walking" durationMin="29" avgHRBPM="123" peakHRBPM="161" minHRBPM="110"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-28">
+    <HeartRate restingBPM="69" avgBPM="113" minBPM="95" maxBPM="149" hrvMS="48"/>
+    <Sleep totalHrs="7.0" deepHrs="0.73" remHrs="1.79" coreHrs="4.15" awakeHrs="0.28"/>
+    <Fitness steps="16773" vo2max="28.8" activeCalories="147"/>
+    <Workout activity="StairClimbing" durationMin="28" avgHRBPM="158" peakHRBPM="197" minHRBPM="142"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-29">
+    <HeartRate restingBPM="66" avgBPM="113" minBPM="84" maxBPM="186" hrvMS="53"/>
+    <Sleep totalHrs="7.9" deepHrs="1.13" remHrs="1.68" coreHrs="4.7" awakeHrs="0.4"/>
+    <Fitness steps="11547" vo2max="28.8" activeCalories="278"/>
+    <Workout activity="Walking" durationMin="71" avgHRBPM="137" peakHRBPM="155" minHRBPM="125"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-30">
+    <HeartRate restingBPM="66" avgBPM="112" minBPM="79" maxBPM="143" hrvMS="42"/>
+    <Sleep totalHrs="7.3" deepHrs="0.94" remHrs="2.33" coreHrs="3.67" awakeHrs="0.36"/>
+    <Fitness steps="10079" vo2max="28.7" activeCalories="389"/>
+    <Workout activity="Walking" durationMin="22" avgHRBPM="136" peakHRBPM="166" minHRBPM="125"/>
+  </DailyRecord>
+  <DailyRecord date="2026-07-31">
+    <HeartRate restingBPM="69" avgBPM="114" minBPM="92" maxBPM="144" hrvMS="42"/>
+    <Sleep totalHrs="6.5" deepHrs="1.13" remHrs="1.37" coreHrs="3.85" awakeHrs="0.12"/>
+    <Fitness steps="15922" vo2max="28.9" activeCalories="379"/>
+    <Workout activity="Walking" durationMin="67" avgHRBPM="129" peakHRBPM="165" minHRBPM="99"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-01">
+    <HeartRate restingBPM="64" avgBPM="113" minBPM="91" maxBPM="183" hrvMS="54"/>
+    <Sleep totalHrs="8.3" deepHrs="1.32" remHrs="1.64" coreHrs="5.19" awakeHrs="0.2"/>
+    <Fitness steps="18366" vo2max="28.8" activeCalories="462"/>
+    <Workout activity="Walking" durationMin="72" avgHRBPM="136" peakHRBPM="174" minHRBPM="111"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-02">
+    <HeartRate restingBPM="68" avgBPM="116" minBPM="96" maxBPM="198" hrvMS="45"/>
+    <Sleep totalHrs="6.8" deepHrs="1.05" remHrs="1.89" coreHrs="3.63" awakeHrs="0.26"/>
+    <Fitness steps="11934" vo2max="28.9" activeCalories="427"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-03">
+    <HeartRate restingBPM="65" avgBPM="116" minBPM="88" maxBPM="170" hrvMS="50"/>
+    <Sleep totalHrs="7.6" deepHrs="1.54" remHrs="2.01" coreHrs="3.89" awakeHrs="0.14"/>
+    <Fitness steps="17879" vo2max="29.1" activeCalories="578"/>
+    <Workout activity="Walking" durationMin="61" avgHRBPM="127" peakHRBPM="143" minHRBPM="115"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-04">
+    <HeartRate restingBPM="68" avgBPM="115" minBPM="92" maxBPM="150" hrvMS="50"/>
+    <Sleep totalHrs="7.5" deepHrs="1.23" remHrs="1.63" coreHrs="4.48" awakeHrs="0.12"/>
+    <Fitness steps="13629" vo2max="29.0" activeCalories="412"/>
+    <Workout activity="Walking" durationMin="92" avgHRBPM="124" peakHRBPM="161" minHRBPM="107"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-05">
+    <HeartRate restingBPM="65" avgBPM="116" minBPM="82" maxBPM="152" hrvMS="38"/>
+    <Sleep totalHrs="6.2" deepHrs="1.22" remHrs="1.5" coreHrs="3.37" awakeHrs="0.07"/>
+    <Fitness steps="18337" vo2max="28.8" activeCalories="561"/>
+    <Workout activity="Walking" durationMin="61" avgHRBPM="126" peakHRBPM="162" minHRBPM="109"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-06">
+    <HeartRate restingBPM="64" avgBPM="114" minBPM="81" maxBPM="155" hrvMS="38"/>
+    <Sleep totalHrs="7.0" deepHrs="1.21" remHrs="1.58" coreHrs="3.99" awakeHrs="0.26"/>
+    <Fitness steps="18374" vo2max="29.3" activeCalories="517"/>
+    <Workout activity="FunctionalStrengthTraining" durationMin="87" avgHRBPM="153" peakHRBPM="188" minHRBPM="134"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-07">
+    <HeartRate restingBPM="71" avgBPM="119" minBPM="99" maxBPM="164" hrvMS="50"/>
+    <Sleep totalHrs="7.0" deepHrs="0.65" remHrs="1.4" coreHrs="4.57" awakeHrs="0.35"/>
+    <Fitness steps="16518" vo2max="28.8" activeCalories="734"/>
+    <Workout activity="Hiking" durationMin="87" avgHRBPM="167" peakHRBPM="193" minHRBPM="138"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-08">
+    <HeartRate restingBPM="69" avgBPM="114" minBPM="81" maxBPM="177" hrvMS="47"/>
+    <Sleep totalHrs="8.2" deepHrs="0.91" remHrs="1.82" coreHrs="5.19" awakeHrs="0.29"/>
+    <Fitness steps="12412" vo2max="29.1" activeCalories="780"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-09">
+    <HeartRate restingBPM="69" avgBPM="115" minBPM="93" maxBPM="192" hrvMS="49"/>
+    <Sleep totalHrs="8.7" deepHrs="1.48" remHrs="1.87" coreHrs="5.18" awakeHrs="0.19"/>
+    <Fitness steps="14459" vo2max="29.1" activeCalories="700"/>
+    <Workout activity="Walking" durationMin="73" avgHRBPM="128" peakHRBPM="145" minHRBPM="103"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-10">
+    <HeartRate restingBPM="69" avgBPM="113" minBPM="90" maxBPM="162" hrvMS="47"/>
+    <Sleep totalHrs="8.0" deepHrs="0.89" remHrs="2.31" coreHrs="4.51" awakeHrs="0.34"/>
+    <Fitness steps="10869" vo2max="28.9" activeCalories="568"/>
+    <Workout activity="Walking" durationMin="45" avgHRBPM="139" peakHRBPM="173" minHRBPM="123"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-11">
+    <HeartRate restingBPM="69" avgBPM="116" minBPM="91" maxBPM="184" hrvMS="39"/>
+    <Sleep totalHrs="7.0" deepHrs="0.52" remHrs="2.28" coreHrs="4.18" awakeHrs="0.05"/>
+    <Fitness steps="8716" vo2max="29.2" activeCalories="700"/>
+    <Workout activity="Walking" durationMin="81" avgHRBPM="130" peakHRBPM="153" minHRBPM="113"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-12">
+    <HeartRate restingBPM="63" avgBPM="112" minBPM="95" maxBPM="161" hrvMS="47"/>
+    <Sleep totalHrs="7.0" deepHrs="1.35" remHrs="2.18" coreHrs="3.3" awakeHrs="0.17"/>
+    <Fitness steps="8282" vo2max="28.9" activeCalories="579"/>
+    <Workout activity="StairClimbing" durationMin="16" avgHRBPM="155" peakHRBPM="185" minHRBPM="144"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-13">
+    <HeartRate restingBPM="65" avgBPM="117" minBPM="97" maxBPM="182" hrvMS="40"/>
+    <Sleep totalHrs="7.3" deepHrs="1.56" remHrs="1.39" coreHrs="4.1" awakeHrs="0.28"/>
+    <Fitness steps="12658" vo2max="29.3" activeCalories="584"/>
+    <Workout activity="Walking" durationMin="94" avgHRBPM="133" peakHRBPM="159" minHRBPM="113"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-14">
+    <HeartRate restingBPM="70" avgBPM="116" minBPM="89" maxBPM="152" hrvMS="41"/>
+    <Sleep totalHrs="6.2" deepHrs="0.52" remHrs="1.42" coreHrs="3.97" awakeHrs="0.27"/>
+    <Fitness steps="9062" vo2max="28.9" activeCalories="689"/>
+    <Workout activity="Walking" durationMin="66" avgHRBPM="136" peakHRBPM="172" minHRBPM="125"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-15">
+    <HeartRate restingBPM="65" avgBPM="114" minBPM="83" maxBPM="139" hrvMS="40"/>
+    <Sleep totalHrs="7.1" deepHrs="1.34" remHrs="1.79" coreHrs="3.83" awakeHrs="0.18"/>
+    <Fitness steps="9512" vo2max="29.3" activeCalories="503"/>
+    <Workout activity="Hiking" durationMin="91" avgHRBPM="164" peakHRBPM="195" minHRBPM="144"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-16">
+    <HeartRate restingBPM="66" avgBPM="106" minBPM="82" maxBPM="158" hrvMS="47"/>
+    <Sleep totalHrs="8.8" deepHrs="1.42" remHrs="1.88" coreHrs="5.14" awakeHrs="0.33"/>
+    <Fitness steps="8585" vo2max="29.4" activeCalories="404"/>
+    <Workout activity="Walking" durationMin="68" avgHRBPM="123" peakHRBPM="158" minHRBPM="93"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-17">
+    <HeartRate restingBPM="68" avgBPM="113" minBPM="84" maxBPM="193" hrvMS="49"/>
+    <Sleep totalHrs="8.5" deepHrs="1.42" remHrs="1.99" coreHrs="4.73" awakeHrs="0.38"/>
+    <Fitness steps="4605" vo2max="29.1" activeCalories="329"/>
+    <Workout activity="Walking" durationMin="89" avgHRBPM="138" peakHRBPM="159" minHRBPM="115"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-18">
+    <HeartRate restingBPM="65" avgBPM="110" minBPM="89" maxBPM="137" hrvMS="45"/>
+    <Sleep totalHrs="6.2" deepHrs="0.54" remHrs="1.58" coreHrs="3.79" awakeHrs="0.28"/>
+    <Fitness steps="2798" vo2max="29.1" activeCalories="357"/>
+    <Workout activity="Walking" durationMin="36" avgHRBPM="134" peakHRBPM="168" minHRBPM="114"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-19">
+    <HeartRate restingBPM="62" avgBPM="108" minBPM="75" maxBPM="154" hrvMS="47"/>
+    <Sleep totalHrs="5.7" deepHrs="0.67" remHrs="1.38" coreHrs="3.53" awakeHrs="0.16"/>
+    <Fitness steps="9786" vo2max="29.5" activeCalories="429"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-20">
+    <HeartRate restingBPM="66" avgBPM="107" minBPM="86" maxBPM="179" hrvMS="43"/>
+    <Sleep totalHrs="7.0" deepHrs="1.56" remHrs="1.31" coreHrs="3.74" awakeHrs="0.4"/>
+    <Fitness steps="7043" vo2max="29.1" activeCalories="231"/>
+    <Workout activity="Walking" durationMin="75" avgHRBPM="128" peakHRBPM="162" minHRBPM="105"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-21">
+    <HeartRate restingBPM="67" avgBPM="112" minBPM="79" maxBPM="138" hrvMS="52"/>
+    <Sleep totalHrs="7.0" deepHrs="1.09" remHrs="2.28" coreHrs="3.24" awakeHrs="0.37"/>
+    <Fitness steps="6207" vo2max="29.2" activeCalories="224"/>
+    <Workout activity="Walking" durationMin="62" avgHRBPM="134" peakHRBPM="177" minHRBPM="113"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-22">
+    <HeartRate restingBPM="65" avgBPM="108" minBPM="86" maxBPM="180" hrvMS="47"/>
+    <Sleep totalHrs="7.5" deepHrs="1.05" remHrs="1.87" coreHrs="4.15" awakeHrs="0.4"/>
+    <Fitness steps="3954" vo2max="29.5" activeCalories="409"/>
+    <Workout activity="Hiking" durationMin="83" avgHRBPM="149" peakHRBPM="187" minHRBPM="130"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-23">
+    <HeartRate restingBPM="59" avgBPM="113" minBPM="93" maxBPM="169" hrvMS="50"/>
+    <Sleep totalHrs="8.3" deepHrs="1.59" remHrs="1.43" coreHrs="5.16" awakeHrs="0.12"/>
+    <Fitness steps="8121" vo2max="29.4" activeCalories="195"/>
+    <Workout activity="Walking" durationMin="29" avgHRBPM="133" peakHRBPM="155" minHRBPM="104"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-24">
+    <HeartRate restingBPM="63" avgBPM="110" minBPM="89" maxBPM="158" hrvMS="51"/>
+    <Sleep totalHrs="8.1" deepHrs="1.31" remHrs="2.35" coreHrs="4.24" awakeHrs="0.22"/>
+    <Fitness steps="2475" vo2max="29.0" activeCalories="193"/>
+    <Workout activity="Walking" durationMin="81" avgHRBPM="134" peakHRBPM="175" minHRBPM="106"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-25">
+    <HeartRate restingBPM="62" avgBPM="112" minBPM="94" maxBPM="164" hrvMS="53"/>
+    <Sleep totalHrs="7.5" deepHrs="1.42" remHrs="1.82" coreHrs="4.1" awakeHrs="0.15"/>
+    <Fitness steps="10214" vo2max="29.6" activeCalories="128"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-26">
+    <HeartRate restingBPM="62" avgBPM="112" minBPM="90" maxBPM="194" hrvMS="59"/>
+    <Sleep totalHrs="7.6" deepHrs="1.0" remHrs="2.35" coreHrs="3.94" awakeHrs="0.29"/>
+    <Fitness steps="10838" vo2max="29.5" activeCalories="368"/>
+    <Workout activity="Walking" durationMin="33" avgHRBPM="126" peakHRBPM="155" minHRBPM="108"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-27">
+    <HeartRate restingBPM="60" avgBPM="112" minBPM="96" maxBPM="163" hrvMS="56"/>
+    <Sleep totalHrs="6.7" deepHrs="0.76" remHrs="1.78" coreHrs="3.9" awakeHrs="0.22"/>
+    <Fitness steps="9469" vo2max="29.3" activeCalories="110"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-28">
+    <HeartRate restingBPM="68" avgBPM="106" minBPM="75" maxBPM="193" hrvMS="56"/>
+    <Sleep totalHrs="7.2" deepHrs="1.35" remHrs="1.7" coreHrs="4.09" awakeHrs="0.09"/>
+    <Fitness steps="3881" vo2max="29.6" activeCalories="231"/>
+    <Workout activity="HighIntensityIntervalTraining" durationMin="66" avgHRBPM="158" peakHRBPM="196" minHRBPM="141"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-29">
+    <HeartRate restingBPM="68" avgBPM="112" minBPM="95" maxBPM="162" hrvMS="57"/>
+    <Sleep totalHrs="5.9" deepHrs="1.2" remHrs="1.36" coreHrs="3.2" awakeHrs="0.09"/>
+    <Fitness steps="3946" vo2max="29.3" activeCalories="152"/>
+    <Workout activity="Walking" durationMin="58" avgHRBPM="139" peakHRBPM="168" minHRBPM="123"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-30">
+    <HeartRate restingBPM="62" avgBPM="113" minBPM="89" maxBPM="140" hrvMS="49"/>
+    <Sleep totalHrs="8.4" deepHrs="1.18" remHrs="2.34" coreHrs="4.79" awakeHrs="0.12"/>
+    <Fitness steps="5966" vo2max="29.5" activeCalories="263"/>
+    <Workout activity="Walking" durationMin="43" avgHRBPM="127" peakHRBPM="153" minHRBPM="114"/>
+  </DailyRecord>
+  <DailyRecord date="2026-08-31">
+    <HeartRate restingBPM="68" avgBPM="112" minBPM="79" maxBPM="196" hrvMS="59"/>
+    <Sleep totalHrs="7.8" deepHrs="1.09" remHrs="1.42" coreHrs="5.07" awakeHrs="0.18"/>
+    <Fitness steps="14214" vo2max="29.6" activeCalories="462"/>
+  </DailyRecord>
+  <DailyRecord date="2026-09-01">
+    <HeartRate restingBPM="66" avgBPM="110" minBPM="89" maxBPM="157" hrvMS="57"/>
+    <Sleep totalHrs="5.7" deepHrs="0.7" remHrs="1.49" coreHrs="3.34" awakeHrs="0.22"/>
+    <Fitness steps="7288" vo2max="29.6" activeCalories="423"/>
+    <Workout activity="Walking" durationMin="41" avgHRBPM="129" peakHRBPM="161" minHRBPM="111"/>
+  </DailyRecord>
+  <DailyRecord date="2026-09-02">
+    <HeartRate restingBPM="68" avgBPM="110" minBPM="93" maxBPM="185" hrvMS="48"/>
+    <Sleep totalHrs="7.1" deepHrs="0.87" remHrs="1.79" coreHrs="4.06" awakeHrs="0.36"/>
+    <Fitness steps="9735" vo2max="29.3" activeCalories="527"/>
+    <Workout activity="Walking" durationMin="31" avgHRBPM="128" peakHRBPM="160" minHRBPM="109"/>
+  </DailyRecord>
+  <DailyRecord date="2026-09-03">
+    <HeartRate restingBPM="70" avgBPM="112" minBPM="83" maxBPM="172" hrvMS="44"/>
+    <Sleep totalHrs="6.7" deepHrs="0.85" remHrs="2.27" coreHrs="3.34" awakeHrs="0.25"/>
+    <Fitness steps="9002" vo2max="29.7" activeCalories="590"/>
+    <Workout activity="StairClimbing" durationMin="38" avgHRBPM="167" peakHRBPM="192" minHRBPM="156"/>
+  </DailyRecord>
+  <DailyRecord date="2026-09-04">
+    <HeartRate restingBPM="70" avgBPM="105" minBPM="86" maxBPM="142" hrvMS="49"/>
+    <Sleep totalHrs="6.7" deepHrs="0.71" remHrs="1.99" coreHrs="3.81" awakeHrs="0.22"/>
+    <Fitness steps="14479" vo2max="29.7" activeCalories="418"/>
+    <Workout activity="Walking" durationMin="23" avgHRBPM="129" peakHRBPM="155" minHRBPM="113"/>
+  </DailyRecord>
+  <DailyRecord date="2026-09-05">
+    <HeartRate restingBPM="67" avgBPM="113" minBPM="95" maxBPM="166" hrvMS="45"/>
+    <Sleep totalHrs="6.7" deepHrs="0.72" remHrs="1.59" coreHrs="4.31" awakeHrs="0.06"/>
+    <Fitness steps="10071" vo2max="29.7" activeCalories="440"/>
+  </DailyRecord>
+  <DailyRecord date="2026-09-06">
+    <HeartRate restingBPM="67" avgBPM="103" minBPM="73" maxBPM="183" hrvMS="44"/>
+    <Sleep totalHrs="6.8" deepHrs="1.25" remHrs="1.49" coreHrs="3.67" awakeHrs="0.36"/>
+    <Fitness steps="14544" vo2max="29.5" activeCalories="576"/>
+    <Workout activity="Walking" durationMin="39" avgHRBPM="131" peakHRBPM="157" minHRBPM="116"/>
+  </DailyRecord>
+</HealthData>
